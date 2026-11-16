@@ -1,0 +1,12 @@
+po_number,line_no,sku,description,qty,unit_price
+PO-1001,1,PPR-A4-500,A4 copy paper (box of 5 reams),50,42.00
+PO-1001,2,TNR-26A,Toner cartridge HP 26A,10,89.50
+PO-1001,3,ORG-DSK-3,Desk organizer 3-tier,20,15.25
+PO-1002,1,FRT-LH-MO,Monthly linehaul freight service,3,4000.00
+PO-1003,1,HF-220,Hydraulic fitting HF-220,400,6.80
+PO-1003,2,GK-15,Gasket kit GK-15,120,12.40
+PO-1003,3,BR-6204,Ball bearing 6204-2RS,200,4.15
+PO-1004,1,CLD-HOST-OCT,Cloud hosting - October,1,2450.00
+PO-1004,2,CLD-SUP-OCT,Premium support - October,1,300.00
+PO-1005,1,FM-CLEAN-NOV,Facility cleaning - November,1,3600.00
+PO-1005,2,FM-CONS-NOV,Cleaning consumables - November,1,420.00

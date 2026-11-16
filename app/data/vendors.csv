@@ -1,0 +1,7 @@
+vendor_id,name,aliases,tax_id,status,payment_terms_days,currency,remit_email
+V001,Northwind Office Supplies,Northwind Office Supplies Inc.|Northwind Supplies,94-2817736,approved,30,USD,ar@northwind-supplies.example
+V002,Brightline Logistics LLC,Brightline Logistics|Brightline Freight,61-4410298,approved,45,USD,billing@brightline.example
+V003,Apex Industrial Components Inc.,Apex Industrial|Apex Components,37-9902114,approved,30,USD,receivables@apexic.example
+V004,Cobalt Cloud Services,Cobalt Cloud|Cobalt Cloud Services Ltd,88-1203347,approved,15,USD,finance@cobaltcloud.example
+V005,Meridian Facilities Management,Meridian Facilities|Meridian FM,52-6670981,approved,30,USD,accounts@meridianfm.example
+V006,Quickfix Repairs & Maintenance,Quickfix Repairs,45-3318820,blocked,30,USD,office@quickfix.example

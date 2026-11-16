@@ -1,0 +1,4 @@
+vendor_id,invoice_number,invoice_date,po_number,net_amount,tax,total,status,po_line_qty
+V002,BL-0912,2026-10-05,PO-1002,8000.00,0.00,8000.00,paid,1:2
+V004,CCS-INV-2210,2026-11-01,PO-1004,2750.00,220.00,2970.00,paid,1:1|2:1
+V001,NW-57990,2026-09-12,PO-0987,1240.00,99.20,1339.20,paid,

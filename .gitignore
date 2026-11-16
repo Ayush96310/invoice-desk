@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+app/data/runtime.db
+app/data/uploads/
+.env
+.claude/

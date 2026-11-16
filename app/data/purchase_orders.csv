@@ -1,0 +1,6 @@
+po_number,vendor_id,issue_date,currency,status,buyer,description
+PO-1001,V001,2026-10-20,USD,open,Priya Nair,Q4 office consumables
+PO-1002,V002,2026-08-28,USD,open,Daniel Okafor,Q3-Q4 linehaul freight (3 months)
+PO-1003,V003,2026-10-02,USD,open,Marcus Chen,Hydraulic spares for Line 2
+PO-1004,V004,2026-09-30,USD,open,Sofia Alvarez,October cloud hosting + support
+PO-1005,V005,2026-10-25,USD,open,Priya Nair,November facility cleaning

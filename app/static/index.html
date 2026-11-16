@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Invoice Desk</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/styles.css?v=4">
+</head>
+<body>
+  <div class="shell">
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="logo">ID</div>
+        <div><div class="brand-name">Invoice Desk</div><div class="brand-sub">PDF → decision</div></div>
+      </div>
+      <nav>
+        <a href="#/" data-nav="dashboard"><span class="ico">▦</span>Dashboard</a>
+        <a href="#/new" data-nav="new"><span class="ico">＋</span>New run</a>
+        <a href="#/data" data-nav="data"><span class="ico">≡</span>POs &amp; vendors</a>
+      </nav>
+      <div class="sidebar-foot">
+        <div id="mode-badge" class="mode-badge">…</div>
+        <button id="reset-btn" class="btn ghost small">Reset demo data</button>
+      </div>
+    </aside>
+    <main id="view" class="main"></main>
+  </div>
+  <div id="toast" class="toast"></div>
+  <script src="/static/app.js?v=4"></script>
+</body>
+</html>
